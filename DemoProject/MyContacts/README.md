@@ -1,7 +1,7 @@
-<h3>Main stacks used in this project<h3/>
+Main stacks used in this project
 
-<p>CRUD operations<p/>
-<p>MongoDB database<p/>
-<p>Authentication<p/>
+CRUD operations
+MongoDB database
+Authentication
 
-<p>This was a demo backend project where the main motive was to learn building backend<p/>
+This was a demo backend project where the main motive was to learn building backend
