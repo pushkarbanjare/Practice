@@ -14,6 +14,7 @@ const validateToken = require("../middleware/validateTokenHandler");
 // router.route("/:id").get(getContact);
 // router.route("/:id").put(updateContact);
 // router.route("/:id").delete(deleteContact);
+
 // we can merge all the above routes bcz many are almost the same
 
 router.use(validateToken);
